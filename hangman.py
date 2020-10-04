@@ -37,3 +37,7 @@ def hangman(word):
 
 
 hangman("handman")  # here must be a word
+
+
+# New changes
+print("Thank you for playing")
